@@ -5,13 +5,14 @@ http://localhost:8080/cbpi_ui/static/index.html#
 
 # Build Web App
 
-npm start 
-npm run build
+    npm start
+
+    npm run build
 
 # Install Plugin for Development
 
-python3 setup.py develop
+    python3 setup.py develop
 
 # Package Plugin 
 
-python3 setup.py sdist
+    python3 setup.py sdist
