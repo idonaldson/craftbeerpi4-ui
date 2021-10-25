@@ -5,8 +5,8 @@ http://localhost:8080/cbpi_ui/static/index.html#
 
 # Build Web App
 
+    cd cbpi4ui
     npm start
-
     npm run build
 
 # Install Plugin for Development
